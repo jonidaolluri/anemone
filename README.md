@@ -3,3 +3,4 @@ Shopping website built with:
 -php
 -css
 -jquery
+-mysql
